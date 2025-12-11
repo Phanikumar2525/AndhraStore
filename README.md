@@ -9,13 +9,6 @@ The main aim of AndhraStore is to promote Andhra Pradesh culture and make authen
 
 👉 Deployment Link:https://andhrastore.onrender.com/
 
-📸 Screenshots
-
-Add screenshots like this:
-
-![Homepage] screenshots/home.png
-![Products](screenshot2.png)
-![Cart](screenshot3.png)
 
 # ✨ Features
 
