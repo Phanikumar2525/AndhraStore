@@ -13,7 +13,7 @@ The main aim of AndhraStore is to promote Andhra Pradesh culture and make authen
 
 Add screenshots like this:
 
-![Homepage](screenshot1.png)
+![Homepage] screenshots/home.png
 ![Products](screenshot2.png)
 ![Cart](screenshot3.png)
 
